@@ -1,7 +1,7 @@
 import random as ran
 
 key = input("Press y to start ")
-print("This is a test")
+
 while key == 'y':
     num = ran.randint(1, 6)
     if num == 1:
